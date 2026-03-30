@@ -73,4 +73,5 @@ int main() {
   menu();
         cin >> pilihan;
 
-        
+     switch (pilihan) {
+            
