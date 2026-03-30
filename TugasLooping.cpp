@@ -69,4 +69,5 @@ void menu() {
 
 // Main program
 int main() {
-    
+    while (true) {
+        
