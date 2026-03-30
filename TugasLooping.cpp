@@ -67,3 +67,6 @@ void menu() {
     cout << "Pilih menu: ";
 }
 
+// Main program
+int main() {
+    
