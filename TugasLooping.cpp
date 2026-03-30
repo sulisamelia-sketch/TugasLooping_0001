@@ -70,4 +70,7 @@ void menu() {
 // Main program
 int main() {
     while (true) {
+  menu();
+        cin >> pilihan;
+
         
